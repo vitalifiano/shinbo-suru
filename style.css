@@ -1,0 +1,68 @@
+p {
+    color: black;
+    font-family:sans-serif;
+    background-color: #B480FF;
+    text-align:center;
+    font-size:18px;
+  }
+  h1 {
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color:#B480FF;
+    text-decoration:underline;
+  }
+  h2 {
+    font-weight: bold;
+    font-family: sans-serif;
+  
+  }
+  h3 {
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color:#EEB6FF;
+    text-align:center
+  
+  }
+  
+  h4 {
+    font-weight: bold;
+    font-family: sans-serif;
+  
+  }
+  
+  h5 {
+    font-weight: bold;
+    font-family: sans-serif;
+    
+  }
+  
+  h6 {
+    font-weight: bold;
+    font-family: sans-serif;
+  
+  }
+  
+  li {
+    color: black;
+    font-family:sans-serif;
+    background-color: #D19BFF;
+    font-size:18px;
+  }
+  
+  body {
+    background-image: url(Shinbo.png);
+    border: 2px solid black;
+    image-resolution:100px
+  }
+  
+  .header {
+    border: 1px solid black;
+    padding: 10px;
+   background-color:#D19BFF;
+  }
+  .header {
+    top: 0;
+    z-index: 500;
+    opacity:2000;
+  
+  }
